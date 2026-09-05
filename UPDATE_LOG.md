@@ -143,3 +143,13 @@ pm2 delete oil-dashboard
 * **TradingView 即時 K 線圖**：點選 `CLUSDT` 或上方 `BINANCE WTI` 按鈕，即刻切換為 `BINANCE:CLUSDT.P` 官方行情串流。
 * **風控與倉位試算器 (TraderWorkstation)**：合約模式新增「加密永續 (Binance CLUSDT 1桶)」，支援 1 桶/手之保證金、止盈止損與盈虧比試算。
 
+---
+
+## 6. 🐙 GitHub 版本控制與遠端同步 (GitHub Repository)
+
+* **遠端版本庫**：`https://github.com/hi66724389/oil-dashboard-next`
+* **可見性**：公開 (Public)
+* **預設分支**：`main`
+* **同步狀態**：已建立遠端 origin 並完成首發全量推送（Initial Push）。
+
+
